@@ -1,0 +1,32 @@
+.header {
+  background-color: #282c34;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-title {
+  color: rgb(58, 55, 55);
+  margin: 0;
+}
+
+.header-nav {
+  margin-top: 10px;
+}
+
+.header-link {
+  margin: 0 15px;
+  color: #516b72;
+  text-decoration: none;
+}
+
+.header-link:hover {
+  text-decoration: underline;
+}
+
+.auth-buttons {
+  display: flex;
+  align-items: center;
+  color: #231616;
+}

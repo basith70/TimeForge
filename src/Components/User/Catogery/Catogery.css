@@ -1,0 +1,87 @@
+.category-page {
+    padding: 20px;
+  }
+  
+  .section-products {
+    margin-bottom: 40px;
+  }
+  
+  .single-product {
+    background: #fff;
+    border: 1px solid #ebebeb;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    transition: 0.3s;
+  }
+  
+  .single-product .part-1 {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+  
+  .single-product .part-1 ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .single-product .part-1 ul li {
+    margin: 0 5px;
+  }
+  
+  .single-product .part-1 ul li a {
+    color: #fff;
+    font-size: 20px;
+    background: rgba(205, 96, 96, 0.5);
+    padding: 10px;
+    border-radius: 50%;
+    transition: 0.3s;
+  }
+  
+  .single-product .part-1 ul li a:hover {
+    background: #73a2dc;
+  }
+  
+  .single-product .part-2 {
+    padding: 10px;
+  }
+  
+  .product-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .product-old-price {
+    font-size: 14px;
+    text-decoration: line-through;
+    color: #999;
+    margin-bottom: 5px;
+  }
+  
+  .product-price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff6f61;
+  }
+  
+  .header {
+    background-color: #e0f7fa; /* Light blue background */
+    padding: 10px;
+    border-radius: 5px;
+    color: #b43232;
+  }
+  
+  .col-md-8.col-lg-6 {
+    color: #f68080;
+  }
+  
